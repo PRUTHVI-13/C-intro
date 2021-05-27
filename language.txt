@@ -1,0 +1,11 @@
+Install GIT.
+
+Open GitHub
+
+Create repository and files in your system.
+
+Make changes to your local files. 
+
+Initialize the repository to GitHub.
+
+Make changes to the local files and push those changes to the GitHub repository
