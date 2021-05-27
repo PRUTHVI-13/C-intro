@@ -1,6 +1,7 @@
-#include<stdio.h>
+// code for addition of two numbers 
+#include<stdio.h> // header file 
  
- int main()
+ int main() // main function 
  {
  int a, b, sum;
  printf("\n SUM OF TWO NUMBERS: ");
