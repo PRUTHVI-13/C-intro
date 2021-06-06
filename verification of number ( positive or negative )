@@ -1,1 +1,14 @@
 // this is the code to verify wheather a entered number is a positive or negative
+
+#include<stdio.h>
+main()
+{
+  int a;
+  printf("Enter your number: ");
+  scanf("%d",&a);
+  if(a>0)
+    printf("%d is  a positive number ",a );
+
+  if(a<0)
+    printf("%d is a negative number",a );
+}
